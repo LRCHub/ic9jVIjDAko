@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "CHEMY×STORY （『仮面ライダーガッチャード』主題歌）",
+  "base_artist": "BACK-ON × FLOW",
+  "createdAt": "2026-01-13T22:35:58.757521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHEMY×STORY",
+      "artist": "BACK-ON x FLOW",
+      "has_synced": true,
+      "path": "select/01_CHEMY×STORY_BACK-ON_x_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHEMY×STORY - 『仮面ライダーガッチャード』主題歌",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/02_CHEMY×STORY_-_『仮面ライダーガッチャード』主題歌_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CHEMY×STORY (『仮面ライダーガッチャード』主題歌)",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": true,
+      "path": "select/03_CHEMY×STORY_(『仮面ライダーガッチャード』主題歌)_BACK-ON_×_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CHEMY×STORY (『仮面ライダーガッチャード』主題歌)",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/04_CHEMY×STORY_(『仮面ライダーガッチャード』主題歌)_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CHEMY×STORY （『仮面ライダーガッチャード』主題歌）",
+      "artist": "VARIOUS ARTISTS",
+      "has_synced": true,
+      "path": "select/05_CHEMY×STORY_(『仮面ライダーガッチャード』主題歌)_VARIOUS_ARTISTS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CHEMY×STORY (KAMEN RIDER GOTCHARD Theme BACK-ON x FLOW version.)",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/06_CHEMY×STORY_(KAMEN_RIDER_GOTCHARD_Theme_BACK-ON_x_FLOW_version.)_BACK-ON.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CHEMY×STORY (Instrumental)",
+      "artist": "Back On",
+      "has_synced": false,
+      "path": "select/07_CHEMY×STORY_(Instrumental)_Back_On.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CHEMY×STORY Instrumental",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/08_CHEMY×STORY_Instrumental_BACK-ON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHEMY×STORY",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_CHEMY×STORY_BACK-ON_×_FLOW.txt"
+    }
+  ]
+}
